@@ -1,2 +1,3 @@
 # turtle_practice
-sub1 branchに一旦色々おいてます
+rosの練習用
+sub1 branchに一旦色々おいている
